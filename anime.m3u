@@ -1,80 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1,10 Empiezan a deteriorarse en cuanto son creadas
-http://archive.org/download/13.1_20200613/10.mp4
-#EXTINF:-1,10 ¡Superesfuerzo! ¡Especial previo al Grand Prix Final!
-http://archive.org/download/0005677/10.mp4
-#EXTINF:-1,11 Empieza el espectáculo
-http://archive.org/download/13.1_20200613/11.mp4
-#EXTINF:-1,11 ¡Supersuperesfuerzo! El programa corto del Grand Prix Final
-http://archive.org/download/0005677/11.mp4
-#EXTINF:-1,12 Vaya  estoy agotado
-http://archive.org/download/13.1_20200613/12.mp4
-#EXTINF:-1,12 ¡Supersupersuperesfuerzo! El programa libre del Grand Prix Final
-http://archive.org/download/0005677/12.mp4
-#EXTINF:-1,13 ¡Sato  tú tienes la culpa!
-http://archive.org/download/13.1_20200613/13.mp4
-#EXTINF:-1,14  De repente  se ha vuelto molesto
-http://archive.org/download/4_20200614/1.mp4
-#EXTINF:-1,15 Todo el mundo a mi alrededor es idiota
-http://archive.org/download/4_20200614/2.mp4
-#EXTINF:-1,16 Siempre estoy asustado
-http://archive.org/download/4_20200614/3.mp4
-#EXTINF:-1,17 Te pone enfermo  ¿verdad?
-http://archive.org/download/4_20200614/4.mp4
-#EXTINF:-1,18 Kuro chan  ¡por favor!
-http://archive.org/download/4_20200614/5.mp4
-#EXTINF:-1,19 Es duro ser un perro faldero
-http://archive.org/download/4_20200614/6.mp4
-#EXTINF:-1,2 ¡¿Dos Yuris?! Drama en Yu-topia
-http://archive.org/download/0005677/2.mp4
-#EXTINF:-1,2 ¿Cómo he llegado a esto? Yo no tengo la culpa
-http://archive.org/download/13.1_20200613/02.mp4
-#EXTINF:-1,20 Kuro chan  ¡una vez más  por favor!
-http://archive.org/download/4_20200614/7.mp4
-#EXTINF:-1,21 Las cosas se están poniendo difíciles en este país
-http://archive.org/download/4_20200614/8.mp4
-#EXTINF:-1,22 Tú eres quien se entromete en mi vida
-http://archive.org/download/4_20200614/9.mp4
-#EXTINF:-1,23 ¡No lo haré!
-http://archive.org/download/4_20200614/10.mp4
-#EXTINF:-1,24 Esto sí que es una auténtica guerra
-http://archive.org/download/4_20200614/11.mp4
-#EXTINF:-1,25 Parece interesante  así que supongo que está bien
-http://archive.org/download/4_20200614/12.mp4
-#EXTINF:-1,26 Yo también hago promesas  Satou san
-http://archive.org/download/4_20200614/13.mp4
-#EXTINF:-1,3 Creo que se acabó
-http://archive.org/download/13.1_20200613/03.mp4
-#EXTINF:-1,3 ¿Yo soy Eros y Eros es yo? Aguas termales sobre hielo
-http://archive.org/download/0005677/3.mp4
-#EXTINF:-1,4 Gústate a ti mismo y completa el programa libre
-http://archive.org/download/0005677/4.mp4
-#EXTINF:-1,4 ¿Alguna vez viste un fantasma negro?
-http://archive.org/download/13.1_20200613/04.mp4
-#EXTINF:-1,5 Pero cuando llega la hora de la verdad  quieres que te ayuden   
-http://archive.org/download/13.1_20200613/05.mp4
-#EXTINF:-1,5 ¡Cara colorada! ¡La primera competencia! La competencia de Chugoku Shikoku y Kyushu
-http://archive.org/download/0005677/5.mp4
-#EXTINF:-1,6 Te voy a matar a ti también
-http://archive.org/download/13.1_20200613/06.mp4
-#EXTINF:-1,6 ¡A China! ¡El acto de apertura del Grand Prix!NEl programa corto de la Copa de China
-http://archive.org/download/0005677/6.mp4
-#EXTINF:-1,7 Juro que ocultaré todo este asunto
-http://archive.org/download/13.1_20200613/07.mp4
-#EXTINF:-1,7 ¡A China! ¡El acto de apertura del Grand Prix! El programa libre de la Copa de China
-http://archive.org/download/0005677/7.mp4
-#EXTINF:-1,8 Prepárense
-http://archive.org/download/13.1_20200613/08.mp4
-#EXTINF:-1,8 Yuri contra Yuri La temible Copa Rostelecom el programa corto
-http://archive.org/download/0005677/8.mp4
-#EXTINF:-1,9 Espera  podemos hablarlo
-http://archive.org/download/13.1_20200613/09.mp4
-#EXTINF:-1,9 Yuri contra Yuri La temible Copa Rostelecom el programa libre
-http://archive.org/download/0005677/9.mp4
-#EXTINF:-1,No tiene nada que ver con nosotros
-http://archive.org/download/13.1_20200613/01.mp4
-#EXTINF:-1,¡No es nada es un pirozhki! El Grand Prix Final de las lágrimas
-http://archive.org/download/0005677/1.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/11 EYES.jpg" group-title="Animes",11 EYES
 http://archive.org/download/3-d-kanojo/11eyes.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/3D KANOJO REAL GIRL.jpg" group-title="Animes",3D KANOJO REAL GIRL
@@ -145,6 +69,7 @@ https://archive.org/download/elch4v0/High%20School%20DxD%20New.m3u
 https://archive.org/download/elch4v0/High%20School%20DxD%20BorN.m3u
 #EXTINF:-1 tvg-logo="https://cdn.jkanime.net/assets/images/animes/image/high-school-dxd-hero.jpg" group-title="Animes",HIGH SCHOOL DXD HERO
 https://archive.org/download/elch4v0/High%20School%20DxD%20Hero.m3u
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/HELLSING ULTIMATE.jpg" group-title="Animes",
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/Himouto Umaru-Chan.jpg" group-title="Animes",Himouto Umaru-Chan
