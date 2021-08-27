@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="",
+https://raw.githubusercontent.com/laureanoflix/SERIES/main/DBZ.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JnBw9pn/11-eyes.png" group-title="Animes",11 EYES 
 http://archive.org/download/3-d-kanojo/11eyes.m3u 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LP4q4P6/3-D-KANOJO-REAL-GIRL.png" group-title="Animes",3D KANOJO REAL GIRL 
