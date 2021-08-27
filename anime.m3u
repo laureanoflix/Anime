@@ -1,6 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://generacionxbox.com/wp-content/uploads/2021/03/Dragon-Ball-Z-Kakarot-ID-940x529.jpg",DBZ
-https://raw.githubusercontent.com/laureanoflix/SERIES/main/DBZ.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JnBw9pn/11-eyes.png" group-title="Animes",11 EYES 
 http://archive.org/download/3-d-kanojo/11eyes.m3u 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LP4q4P6/3-D-KANOJO-REAL-GIRL.png" group-title="Animes",3D KANOJO REAL GIRL 
@@ -46,7 +44,7 @@ http://archive.org/download/DRBALL/DRBALL.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/frct32H/DRAGON-BALL-HEROES.png" group-title="Animes",DRAGON BALL HEROES 
 http://archive.org/download/pqtlxgsx/PqtLxGSx.m3u 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cJx07RV/Dragon-Ball-Z-Serie-Androides-Cell.png" group-title="Animes",Dragon Ball Z Serie Androides Cell 
-https://archive.org/download/dbz-serie-androides/1%20DB%20Super%20Serie%20androides.m3u 
+https://raw.githubusercontent.com/laureanoflix/SERIES/main/DBZ.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vZX7D8g/ELFEN-LIED.png" group-title="Animes",ELFEN LIED 
 http://archive.org/download/ladarius34b_k964n_mygeoweb_000/dft/elf.m3u 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zf6j20m/ERASED-BOKU-DAKE-GA-INAI-MACHI.png" group-title="Animes",ERASED (BOKU DAKE GA INAI MACHI ) 
